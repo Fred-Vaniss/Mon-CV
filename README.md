@@ -1,2 +1,2 @@
 # Mon-CV
-[BeCode] Recréation d'un CV en HTML/CSS
+Exercice de re-création d'un CV sur base d'un modèle
