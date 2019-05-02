@@ -204,6 +204,10 @@ hr {
   margin: 10px auto;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 .short-title {
   background-image: url(../images/h_short.svg);
   max-width: 358px;
