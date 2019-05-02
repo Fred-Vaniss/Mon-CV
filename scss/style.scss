@@ -95,13 +95,14 @@ h2{
 }
 
 ul{
-	margin-left: 1em;
+	margin-left: 1.5em;
 	margin-bottom: 2em;
 }
 
 .picto-link{
 	height: 2em;
 	line-height: 2em;
+	margin-bottom: .5em;
 	.fab{
 		font-size: 2em;
 	}
@@ -184,6 +185,7 @@ hr{
 .circle-cont{
 	p{
 		text-align: center;
+		font-size: 1.3em;
 	}
 }
 
@@ -198,7 +200,7 @@ hr{
 
 .tab-date-long{
 	display: inline-block;
-	width: 200px;
+	width: 190px;
 }
 
 .desc{

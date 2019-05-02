@@ -166,13 +166,14 @@ h2 {
 }
 
 ul {
-  margin-left: 1em;
+  margin-left: 1.5em;
   margin-bottom: 2em;
 }
 
 .picto-link {
   height: 2em;
   line-height: 2em;
+  margin-bottom: .5em;
 }
 
 .picto-link .fab {
@@ -260,6 +261,7 @@ hr {
 
 .circle-cont p {
   text-align: center;
+  font-size: 1.3em;
 }
 
 .blue-text {
@@ -273,7 +275,7 @@ hr {
 
 .tab-date-long {
   display: inline-block;
-  width: 200px;
+  width: 190px;
 }
 
 .desc {
